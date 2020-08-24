@@ -1,0 +1,17 @@
+{
+  "name": "apollo-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bwlt/apollo-server.git",
+  "author": "Walter Barbagallo <brb.walter@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "apollo-server": "^2.16.1"
+  }
+}
